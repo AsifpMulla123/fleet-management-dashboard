@@ -75,4 +75,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Name - [@Asif Mulla](https://www.linkedin.com/in/asif-p-mulla) - asifmullaofficial@gmail.com
 
-Project Link: [https://fleet-management-dashboard-livid.vercel.app/](https://github.com/AsifpMulla123)
+Project Link: [Fleet Management Dashboard ](https://fleet-management-dashboard-livid.vercel.app/)
